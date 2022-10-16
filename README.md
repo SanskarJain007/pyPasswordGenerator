@@ -3,6 +3,7 @@ This project is made using Python. This project is about a random password gener
 It will ask user about how many letters, number and symbols he/she wants in his/her passoword and then it will generate a new random password.
 
 > Note
+
 Starred the repository and copy the code (It is in Python-Code) and run it in your compiler if you want to test the project
 
 ## Screenshots: 
